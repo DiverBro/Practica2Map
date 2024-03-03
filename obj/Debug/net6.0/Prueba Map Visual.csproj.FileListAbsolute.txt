@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\bin\Debug\net6.0\Prueba Map Visual.exe
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\bin\Debug\net6.0\Prueba Map Visual.deps.json
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\bin\Debug\net6.0\Prueba Map Visual.runtimeconfig.json
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\bin\Debug\net6.0\Prueba Map Visual.dll
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\bin\Debug\net6.0\Prueba Map Visual.pdb
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.dll
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\refint\Prueba Map Visual.dll
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.pdb
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\Prueba Map Visual.genruntimeconfig.cache
+C:\Users\sergi\source\repos\Prueba Map Visual\Prueba Map Visual\obj\Debug\net6.0\ref\Prueba Map Visual.dll
